@@ -1,9 +1,9 @@
 /**
- * Assignment #1.
  *
  * This program, given a word list file will find all the anagrams in the list for individual strings of letters entered from the keyboard.
  *
- * Author: Mark Mileyev (mmileyev@ucsc.edu)
+ * Author: Mark Mileyev
+ *
  */
 
 import java.util.*;
